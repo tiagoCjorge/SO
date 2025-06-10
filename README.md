@@ -7,3 +7,15 @@ Neste portfólio, apresento uma análise de cada sessão da unidade curricular, 
 
 ### Índice
 - [Aula 21/02/25 ](aulas/aula1.md)
+- [Aula 28/02/25 ](aulas/aula2.md)
+- [Aula 07/03/25 ](aulas/aula3.md)
+- [Aula 14/03/25 ](aulas/aula4.md)
+- [Aula 21/03/25 ](aulas/aula5.md)
+- [Aula 28/03/25 ](aulas/aula6.md)
+- [Aula 04/04/25 ](aulas/aula7.md)
+- [Aula 02/05/25 ](aulas/aula8.md)
+- [Aula 09/05/25 ](aulas/aula9.md)
+- [Aula 16/05/25 ](aulas/aula10.md)
+- [Aula 23/05/25 ](aulas/aula11.md)
+
+
