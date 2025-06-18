@@ -19,8 +19,8 @@ Neste portfólio, apresento uma análise de cada sessão da unidade curricular, 
 - [Aula 23/05/25 ](aulas/aula11.md)
 - [Aula 04/06/25 ](aulas/aula12.md)
 - [Aula 13/06/25 ](aulas/aula13.md)
-- [Aula 16/05/25 ](aulas/aula14.md)
-- [Aula 17/05/25 ](aulas/aula15.md)
-- [Aula 18/05/25 ](aulas/aula16.md)
+- [Aula 16/06/25 ](aulas/aula14.md)
+- [Aula 17/06/25 ](aulas/aula15.md)
+- [Aula 18/06/25 ](aulas/aula16.md)
 
 
